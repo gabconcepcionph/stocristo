@@ -9,15 +9,15 @@
 - **Project Directory:** stocristo
 - **Subdomain:** https://stocristo.vikaph.com
 - **GitHub Repo:** [to be created]
-- **Vercel URL:** [to be configured]
+- **Vercel URL:** https://stocristo.vercel.app
 
 ## Lead Information
 - **Lead ID:** 5b901052-c0f4-43f1-b5dc-7960530df4ae
 
 ## Deployment Status
-- **Git Repository:** pending
+- **Git Repository:** created
 - **Vercel Deployment:** pending
-- **QA Status:** pending
+- **QA Status:** in progress
 
 ## Notes
 - Google Maps page is JavaScript-rendered, could not extract business details
